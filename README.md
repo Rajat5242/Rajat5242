@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
 <h3 align="center">Data Analyst</h3>
 
--    I'm currently working as a Data Analyst in Telus Digital.**
+-    I'm currently working as a Data Analyst in Telus Digital.
 
 - 📫 How to reach me **singhrajat8042@gmail.com**
 
