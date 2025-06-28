@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
-<h3 align="center">Engineer from India</h3>
+<h3 align="center">Data Analyst</h3>
 
 -    I'm currently working as a Data Analyst in Telus Digital.**
 
